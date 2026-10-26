@@ -69,10 +69,15 @@ main{
 
     display: flex;
     flex-direction: row;
+    cursor: pointer;
+
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
 
 }
 
 .faq-answer{
     color: var(--Purple-600);
-    margin-top: 15px;
+    margin: 20px 0px ;
 }
