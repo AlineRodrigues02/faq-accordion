@@ -36,7 +36,6 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
 
     border-radius: 15px;
 
@@ -60,7 +59,8 @@ main{
     margin: 10px;
 }
 
-.faq-item button{
+
+.faq-question{
     color: var(--Purple-950);    
     border: none;
     background: none ;
@@ -74,10 +74,22 @@ main{
     width: 100%;
     justify-content: space-between;
     align-items: center;
+}
+.faq-question:focus-visible{
+    outline: none;
+    border: solid 2px var(--Purple-950);
+    border-radius: 10px;
 
 }
-
 .faq-answer{
     color: var(--Purple-600);
     margin: 20px 0px ;
+
 }
+
+
+.hide{
+    display: none;
+
+}
+
