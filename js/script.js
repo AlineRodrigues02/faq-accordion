@@ -17,10 +17,10 @@ sessao.forEach(elem => {
 
         answer.classList.toggle('hide')
         if(close){
-            icon.src = '../assets/images/icon-minus.svg';
+            icon.src = 'assets/images/icon-minus.svg';
         }
         else{
-            icon.src = '../assets/images/icon-plus.svg';
+            icon.src = 'assets/images/icon-plus.svg';
         
         }
     })
