@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da Solução: [Repositório no GitHub](https://github.com/AlineRodrigues02/faq-accordion.git)
-- URL do Site ao Vivo (Live Site): [Projeto no ar aqui]()
+- URL do Site ao Vivo (Live Site): [Projeto no ar aqui](https://alinerodrigues02.github.io/faq-accordion/)
 
 
 ### Construído com
