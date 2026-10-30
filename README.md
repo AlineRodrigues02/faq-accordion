@@ -25,8 +25,8 @@ Os usuários devem ser capazes de:
 - Ver os estados de foco (*focus*) para todos os elementos interativos na página.
 
 ### Captura de tela
-
-*(Insira aqui uma captura de tela do seu projeto finalizado, ex: `./screenshot.jpg`)*
+![Desktop](./screenshot/Screenshot%20Desktop%20FAQ%20accordion.png)
+![Mobile](./screenshot/Screenshot%20Mobile%20FAQ%20accordion.png)
 
 ### Links
 
